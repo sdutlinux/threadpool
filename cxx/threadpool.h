@@ -1,21 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  threadpool.h
- *
- *    Description:  
- *
- *        Version:  1.0
- *        Created:  2014年10月10日 10时19分39秒
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Dr. Fritz Mehner (fgm), mehner.fritz@fh-swf.de
- *   Organization:  FH Südwestfalen, Iserlohn
- *
- * =====================================================================================
- */
-
 #ifndef THREAD_POOL_H
 #define THREAD_POOL_H
 
